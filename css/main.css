@@ -1,4 +1,4 @@
-body {background-color: #F2DEF4;
+body {background-color: #595758;
 		color: #FFFFFF; 
 		font-family: Verdana, Arial, sans-serif; 
 			margin-left: auto;
@@ -6,7 +6,7 @@ body {background-color: #F2DEF4;
 			min-width: 1277px;
 			max-width: 1920px;
 		display: block; }
-H2 { background-color: rgba(33,124,132,0.82); 
+H2 { background-color: rgba(255,200,251,0.82); 
 		font-size:2=1.5em;
 		color: #FFFFFF;
 		padding-top:10px;
@@ -20,7 +20,7 @@ H2 { background-color: rgba(33,124,132,0.82);
 			margin-right: 20%;
 			box-shadow: 5px 5px 5px #828282;
 			border-radius: 15px;}
-p {padding-left: 20%;
+p {color: #FFE4F3; padding-left: 20%;
 			padding-right: 20%; }
 
 a { color: #89F3EE;
