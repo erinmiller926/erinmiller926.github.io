@@ -6,8 +6,8 @@ body {background-color: #F2DEF4;
 			min-width: 1277px;
 			max-width: 1920px;
 		display: block; }
-H1 { background-color: rgba(33,124,132,0.82); 
-		font-size:2em;
+H2 { background-color: rgba(33,124,132,0.82); 
+		font-size:2=1.5em;
 		color: #FFFFFF;
 		padding-top:10px;
 		padding-left:500px;
@@ -16,8 +16,8 @@ H1 { background-color: rgba(33,124,132,0.82);
 		 }
 #wrapper { background-color: rgba(193,66,66,0.92);
 			font-size: 1.1em;
-			margin-left: auto;
-			margin-right: auto;
+			margin-left: 20%;
+			margin-right: 20%;
 			box-shadow: 5px 5px 5px #828282;
 			border-radius: 15px;}
 p {padding-left: 20%;
